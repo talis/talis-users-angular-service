@@ -1,0 +1,18 @@
+{
+  "name": "talis-users-angular-service",
+  "version": "0.0.1",
+  "main": "./js/users.service.js",
+  "description": "Angular Service for retrieving/updating Institutions information from Talis",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/talis/talis-users-angular-service.git"
+  },
+  "dependencies": {
+    "angular": "*"
+  },
+  "ignore": [
+    "node_modules",
+    "components",
+    "lib"
+  ]
+}
